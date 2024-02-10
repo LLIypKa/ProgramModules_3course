@@ -1,0 +1,44 @@
+G:\c#\3 курс\prototypes\Composite\bin\Debug\net7.0\Composite.exe
+G:\c#\3 курс\prototypes\Composite\bin\Debug\net7.0\Composite.deps.json
+G:\c#\3 курс\prototypes\Composite\bin\Debug\net7.0\Composite.runtimeconfig.json
+G:\c#\3 курс\prototypes\Composite\bin\Debug\net7.0\Composite.dll
+G:\c#\3 курс\prototypes\Composite\bin\Debug\net7.0\Composite.pdb
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.csproj.AssemblyReference.cache
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.AssemblyInfoInputs.cache
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.AssemblyInfo.cs
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.csproj.CoreCompileInputs.cache
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.dll
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\refint\Composite.dll
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.pdb
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\Composite.genruntimeconfig.cache
+G:\c#\3 курс\prototypes\Composite\obj\Debug\net7.0\ref\Composite.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.exe
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.deps.json
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.runtimeconfig.json
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.pdb
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.AssemblyInfoInputs.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.AssemblyInfo.cs
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\refint\Composite.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.pdb
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.genruntimeconfig.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\ref\Composite.dll
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.exe
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.deps.json
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.runtimeconfig.json
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.dll
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\bin\Debug\net7.0\Composite.pdb
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.csproj.AssemblyReference.cache
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.AssemblyInfoInputs.cache
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.AssemblyInfo.cs
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.csproj.CoreCompileInputs.cache
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.dll
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\refint\Composite.dll
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.pdb
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\Composite.genruntimeconfig.cache
+G:\c#\разработка программных модулей.3 курс\Паттерны\Composite\obj\Debug\net7.0\ref\Composite.dll
