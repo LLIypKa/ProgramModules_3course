@@ -1,0 +1,32 @@
+C:\Users\LLIypuK\Desktop\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.exe
+C:\Users\LLIypuK\Desktop\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.deps.json
+C:\Users\LLIypuK\Desktop\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.runtimeconfig.json
+C:\Users\LLIypuK\Desktop\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.pdb
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.csproj.GenerateResource.cache
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.AssemblyInfo.cs
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\refint\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.pdb
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.genruntimeconfig.cache
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\ref\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.Form1.resources
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.exe
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.deps.json
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.runtimeconfig.json
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\bin\Debug\net7.0-windows\AbstractFactory.pdb
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.Form1.resources
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.csproj.GenerateResource.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.AssemblyInfo.cs
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\refint\AbstractFactory.dll
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.pdb
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\AbstractFactory.genruntimeconfig.cache
+C:\Users\LLIypuK\Desktop\Колледж\разработка программных модулей.3 курс\Паттерны\AbstractFactory\obj\Debug\net7.0-windows\ref\AbstractFactory.dll

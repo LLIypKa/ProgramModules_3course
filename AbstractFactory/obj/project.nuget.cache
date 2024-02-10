@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpKC4FBKoNGSl0F13/MKbZoCQ7paM1DJyaBjESo0txWkkRKxGuubFDxjReJzUzWiaMbqEmt/JnD82AKvsP/yuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shilk\\OneDrive\\Рабочий стол\\Колледж\\разработка программных модулей.3 курс\\Паттерны\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shilk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\shilk\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\shilk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\shilk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
