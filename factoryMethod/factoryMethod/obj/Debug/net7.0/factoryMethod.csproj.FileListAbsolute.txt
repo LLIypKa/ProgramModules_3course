@@ -1,0 +1,15 @@
+G:\c#\3 курс\factoryMethod\bin\Debug\net7.0\factoryMethod.exe
+G:\c#\3 курс\factoryMethod\bin\Debug\net7.0\factoryMethod.deps.json
+G:\c#\3 курс\factoryMethod\bin\Debug\net7.0\factoryMethod.runtimeconfig.json
+G:\c#\3 курс\factoryMethod\bin\Debug\net7.0\factoryMethod.dll
+G:\c#\3 курс\factoryMethod\bin\Debug\net7.0\factoryMethod.pdb
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.csproj.AssemblyReference.cache
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.AssemblyInfoInputs.cache
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.AssemblyInfo.cs
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.csproj.CoreCompileInputs.cache
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.dll
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\refint\factoryMethod.dll
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.pdb
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\factoryMethod.genruntimeconfig.cache
+G:\c#\3 курс\factoryMethod\obj\Debug\net7.0\ref\factoryMethod.dll
