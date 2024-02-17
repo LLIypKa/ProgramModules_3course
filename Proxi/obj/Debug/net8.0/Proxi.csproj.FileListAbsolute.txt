@@ -1,0 +1,14 @@
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\bin\Debug\net8.0\Proxi.exe
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\bin\Debug\net8.0\Proxi.deps.json
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\bin\Debug\net8.0\Proxi.runtimeconfig.json
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\bin\Debug\net8.0\Proxi.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\bin\Debug\net8.0\Proxi.pdb
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.AssemblyInfoInputs.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.AssemblyInfo.cs
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.csproj.CoreCompileInputs.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\refint\Proxi.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.pdb
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\Proxi.genruntimeconfig.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Proxi\obj\Debug\net8.0\ref\Proxi.dll
