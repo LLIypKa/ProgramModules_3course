@@ -1,0 +1,14 @@
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.AssemblyInfoInputs.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.AssemblyInfo.cs
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.csproj.CoreCompileInputs.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\bin\Debug\net8.0\Observer2.exe
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\bin\Debug\net8.0\Observer2.deps.json
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\bin\Debug\net8.0\Observer2.runtimeconfig.json
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\bin\Debug\net8.0\Observer2.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\bin\Debug\net8.0\Observer2.pdb
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\refint\Observer2.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.pdb
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\Observer2.genruntimeconfig.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\Observer2\obj\Debug\net8.0\ref\Observer2.dll
