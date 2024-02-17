@@ -1,0 +1,14 @@
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.AssemblyInfoInputs.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.AssemblyInfo.cs
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.csproj.CoreCompileInputs.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\bin\Debug\net8.0\StateMachine2.exe
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\bin\Debug\net8.0\StateMachine2.deps.json
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\bin\Debug\net8.0\StateMachine2.runtimeconfig.json
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\bin\Debug\net8.0\StateMachine2.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\bin\Debug\net8.0\StateMachine2.pdb
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\refint\StateMachine2.dll
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.pdb
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\StateMachine2.genruntimeconfig.cache
+C:\Users\shilk\OneDrive\Рабочий стол\Колледж\разработка программных модулей.3 курс\Паттерны\StateMachine2\obj\Debug\net8.0\ref\StateMachine2.dll
